@@ -9,5 +9,3 @@ services:
       - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
       - POSTGRES_USER=app
       - POSTGRES_DB=app
-volumes:
-  postgres_data:
